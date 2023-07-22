@@ -1,0 +1,10 @@
+.slide2 {
+    display: flex;
+  }
+
+  .slide2__cube {
+    flex:1
+  }
+  .slide2__text {
+    flex:1
+  }
